@@ -1,0 +1,37 @@
+
+*{
+  box-sizing: border-box;
+}
+
+.artigo{
+  display: inline-block;
+  width: 49%;
+  padding: 0 50px;
+
+}
+
+
+section {
+  width: 49%;
+  margin: 0 auto;
+}
+
+/*.artigo_destaque {
+  font-size: 24px;
+  font-weight: bold;
+}*/ 
+
+/*article p:first-child {
+  color:red;
+
+}*/
+
+/*article p:nth-child(2) {
+  color: red;
+}*/
+
+
+.artigo__destaque {
+  font-size: 24px;
+  font-weight: bold;
+}
